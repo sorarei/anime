@@ -1,0 +1,54 @@
+
+body{
+	margin:0; 
+	font-family: Lucida Console,Lucida Sans Typewriter,monaco,Bitstream Vera Sans Mono,monospace;
+	background-color: #f8f1f1;
+}
+.top-container{
+	display: inline-block;
+	
+	text-align: center;
+	width: 100%;
+}
+h1{
+	font-size: 50px;
+}
+
+
+p{
+	display: block;
+}
+img{
+	width: 100%;
+	height: 400px;
+	
+}
+.text1{
+	text-align: center;
+
+}
+.test1{
+	border-radius: 700px;
+	width: 200px;
+	height: 200px;
+	position: relative;
+	left: 550px;
+}
+.test2{
+	border-radius: 700px;
+	width: 100px;
+	height: 100px;
+	position: relative;
+	left: 550px;
+	/*float: left;*/
+	/*margin: 40px auto;*/
+
+}
+.align{
+	text-align: center;
+	width: 50%;
+	position: relative;
+	left: 220px;
+	line-height: 2;
+	color:  #ff9292;
+}
